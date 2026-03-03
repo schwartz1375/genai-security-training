@@ -728,7 +728,7 @@ plt.imshow(saliency_map, cmap='hot')
 
 ## Next Steps
 
-1. Complete [Lab 6: Explanation-Guided Attacks](labs/lab6_explanation_attacks.ipynb)
+1. Complete [Lab 3: Explanation-Guided Attacks](labs/lab3_interpretability_attacks.ipynb)
 2. Experiment with different interpretability methods
 3. Try explanation-guided attacks
 4. Implement backdoor detection

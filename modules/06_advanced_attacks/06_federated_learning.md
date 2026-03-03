@@ -1004,7 +1004,7 @@ runner.run()
 
 ## Next Steps
 
-1. Complete [Lab 7: Federated Learning Poisoning](labs/lab7_federated_poisoning.ipynb)
+1. Complete [Lab 4: Federated Learning Attacks](labs/lab4_federated_attacks.ipynb)
 2. Implement Byzantine attacks
 3. Test robust aggregation methods
 4. Experiment with secure aggregation

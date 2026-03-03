@@ -535,7 +535,7 @@ Fairness in ML is not just an ethical imperative—it's a security concern. Adve
 
 ## Next Steps
 
-- Complete [Lab 5: Fairness Attacks](labs/lab5_fairness_attacks.ipynb)
+- Complete [Lab 5: Fairness Attacks](labs/lab2_fairness_attacks.ipynb)
 - Read [Interpretability Security](05_interpretability_security.md)
 - Practice comprehensive fairness auditing
 - Develop robust fairness defenses
