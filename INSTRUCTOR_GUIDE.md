@@ -89,6 +89,20 @@ This guide provides locations and summaries of all lab exercise answer keys in t
 
 ---
 
+### Module 9: Agent Security & Sub-Agent Operations
+**File**: `modules/09_agent_security/labs/ANSWERS.ipynb`
+
+**Exercises Covered**:
+1. **Agent Orchestration Basics** (Lab 1) - LLM-driven planner/executor/reviewer workflow tracing
+2. **Sub-Agent Attack Simulation** (Lab 2) - Indirect prompt injection and trust-boundary abuse
+3. **Tool Argument Injection Defense** (Lab 3) - Path traversal and SQLi-style payload hardening
+4. **Security Regression Suite** (Lab 4) - Memory poisoning persistence and threshold-based gating
+5. **Advanced Delegation Attacks (Optional)** (Lab 5) - Supervisor/worker handoff trust and provenance validation
+
+**Key Learning**: Students operationalize realistic agent security controls, attack simulation, and regression testing.
+
+---
+
 ## Using the Answer Guides
 
 ### For Instructors
@@ -260,4 +274,4 @@ For questions about answer guides or teaching materials:
 
 **Last Updated**: December 2025
 **Version**: 1.0
-**Status**: Complete for Modules 1-5, 7
+**Status**: Complete for Modules 1-5, 7, 9

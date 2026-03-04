@@ -1,0 +1,1 @@
+Security baseline: least privilege, explicit tool governance, and audit trails.

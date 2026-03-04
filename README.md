@@ -75,6 +75,12 @@ The training is organized into sequential modules, each building upon previous c
 - Real-world scenario testing
 - Comprehensive evaluation
 
+### Module 9: Agent Security & Sub-Agent Operations
+- Planner/executor/reviewer threat modeling
+- Sub-agent attack simulation
+- Tool policy enforcement
+- Security regression testing for agent workflows
+
 ## 🛠️ Prerequisites
 
 - Python 3.12+

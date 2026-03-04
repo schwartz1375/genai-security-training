@@ -25,6 +25,7 @@ ipywidgets>=8.0.0
 # Utilities
 tqdm>=4.65.0
 requests>=2.31.0
+langgraph>=0.2.0
 
 # Testing
 pytest>=7.4.0
