@@ -70,7 +70,7 @@ The training is organized into sequential modules, each building upon previous c
 - Red team exercise scenarios
 - Reporting and remediation
 
-### Module 8: Final Assessment
+### Module 8: Capstone Project
 - Capstone project
 - Real-world scenario testing
 - Comprehensive evaluation
@@ -161,9 +161,9 @@ Always obtain proper authorization before testing any system.
 
 ## 📊 What's Included
 
-- **8 Complete Modules** - Introduction through Capstone
-- **40 Jupyter Notebooks** - Hands-on labs, interactive theory, and solutions
-- **29 Theory & Documentation Files** - Comprehensive markdown guides and module overviews
+- **9 Complete Modules** - Introduction through Agent Security
+- **46 Jupyter Notebooks** - Hands-on labs, interactive theory, and solutions
+- **31 Theory & Documentation Files** - Comprehensive markdown guides and module overviews
 - **Industry-Standard Tools** - Integrated ART, TextAttack, and SHAP frameworks in notebooks
 - **Device Detection Code** - Built-in CUDA/Apple Silicon MPS/CPU detection in labs
 
@@ -173,4 +173,4 @@ Always obtain proper authorization before testing any system.
 
 - **[QUICK_START.md](QUICK_START.md)** - Get started in 15 minutes
 - **[INSTRUCTOR_GUIDE.md](INSTRUCTOR_GUIDE.md)** - Complete teaching guide with answer key locations and grading rubrics
-- **Module ANSWERS.ipynb** - Runnable Jupyter notebooks with complete solutions (20+ exercises) in modules 1-5 and 7 labs folders
+- **Module ANSWERS.ipynb** - Runnable Jupyter notebooks with complete solutions (20+ exercises) in modules 1-5, 7, and 9 labs folders
