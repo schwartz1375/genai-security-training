@@ -94,3 +94,6 @@ temp/
 # Uncomment if you don't want to track solutions
 # solutions/
 # */solutions/
+
+# Module 9 lab runtime artifacts (created by notebook CWD differences)
+modules/09_agent_security/labs/modules/
